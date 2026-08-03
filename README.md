@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a33,100:00d4ff&height=180&section=header&text=PRASAD%20SHINDE&fontSize=45&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Graphics%20Programmer%20%7C%20Unreal%20Engine%205&descAlignY=58&descSize=16&descColor=8fd6ff" width="100%"/>
-
-</div>
-
 ### 🎮 Graphics Programmer & Unreal Engine Developer
 
 I build real-time graphics, shaders, tools, and interactive experiences.
