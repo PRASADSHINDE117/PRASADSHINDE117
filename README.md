@@ -8,7 +8,7 @@ Currently building products at **Versatyle**, while exploring rendering, optimiz
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,unreal,blender,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,unreal,blender,git,unityk" />
 </p>
 
 <br/>
