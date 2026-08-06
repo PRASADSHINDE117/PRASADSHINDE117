@@ -18,24 +18,11 @@ Currently building products at **Versatyle**, while exploring rendering, optimiz
 - 🎮 Real-Time Rendering
 - ⚡ Shader Development
 - 🛠️ Engine Tools
-- 🚀 Building at Versatyle
-
-<br/>
-
-### Pinned
-
-- 🎮 **Dreams Delivered**
-- ⚡ **Gaussian Splatting Tool**
-- 🎨 **Unreal Shader Experiments**
-- 🚀 **Versatyle**
-
-<br/>
 
 ### GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=prasadshinde&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=00d4ff&icon_color=00d4ff&text_color=8fd6ff&border_color=00d4ff&hide_border=false"/>
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadshinde&theme=tokyonight&background=00000000&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&border=00d4ff&hide_border=false"/>
 
 </div>
