@@ -15,9 +15,9 @@ Currently building products at **Versatyle**, while exploring rendering, optimiz
 
 ### Current Focus
 
-- 🎮 Real-Time Rendering
-- ⚡ Shader Development
-- 🛠️ Engine Tools
+- Real-Time Rendering
+- Shader Development
+- Engine Tools
 
 ### GitHub Stats
 
