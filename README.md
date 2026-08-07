@@ -5,13 +5,48 @@ Currently building products at **Versatyle**, while exploring rendering, optimiz
 
 <br/>
 
+<<<<<<< HEAD
 ### SHOWCASE
+=======
+### Showcase
+>>>>>>> d8ee9ec (new art)
 
 <p align="center">
   <img src="./VID/MYrender.gif" alt="Showcase Animation" width="800">
 </p>
 
+<<<<<<< HEAD
 ### TECH
+=======
+</br>
+
+### UE5
+
+<table align="center">
+  <tr>
+    <td><img src="./VID/Screenshot 2026-05-29 140252.png" width="300"></td>
+    <td><img src="./VID/Screenshot 2026-05-29 140440.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="./VID/Screenshot 2026-05-29 140407.png" width="300"></td>
+    <td><img src="./VID/Screenshot 2026-05-29 140533.png" width="300"></td>
+  </tr>
+</table>
+
+</br>
+
+### MY ART some of it :)
+
+<table align="center">
+  <tr>
+    <td><img src="./VID/Screenshot 2026-05-29 135228.png" width="300"></td>
+    <td><img src="./VID/Screenshot 2026-05-29 135535.png" width="300"></td>
+  </tr>
+</table>
+
+
+### Tech Stack
+>>>>>>> d8ee9ec (new art)
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,unreal,blender,git,unityk" />
