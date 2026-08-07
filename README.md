@@ -1,4 +1,4 @@
-### 🎮 Graphics Programmer & Unreal Engine Developer
+### Graphics Programmer & Unreal Engine Developer
 
 I build real-time graphics, shaders, tools, and interactive experiences.
 Currently building products at **Versatyle**, while exploring rendering, optimization, and engine programming.
