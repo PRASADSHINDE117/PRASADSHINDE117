@@ -4,7 +4,11 @@ I build real-time graphics, shaders, tools, and interactive experiences.
 Currently building products at **Versatyle**, while exploring rendering, optimization, and engine programming.
 
 <br/>
+### Showcase
 
+<p align="center">
+  <img src="./VID/MYrender.gif" alt="Showcase Animation" width="800">
+</p>
 ### Tech Stack
 
 <p>
