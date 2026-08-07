@@ -5,13 +5,13 @@ Currently building products at **Versatyle**, while exploring rendering, optimiz
 
 <br/>
 
-Showcase
+### SHOWCASE
 
 <p align="center">
   <img src="./VID/MYrender.gif" alt="Showcase Animation" width="800">
 </p>
 
-Tech Stack
+### TECH
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,unreal,blender,git,unityk" />
