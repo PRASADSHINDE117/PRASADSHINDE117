@@ -1,79 +1,86 @@
-### Graphics Programmer & Unreal Engine Developer
-
-I build real-time graphics, shaders, tools, and interactive experiences.
-Currently building products at **Versatyle**, while exploring rendering, optimization, and engine programming.
-
-<br/>
-
-<<<<<<< HEAD
-### SHOWCASE
-=======
-### Showcase
->>>>>>> d8ee9ec (new art)
+<h1 align="center">Prasad Shinde</h1>
 
 <p align="center">
-  <img src="./VID/MYrender.gif" alt="Showcase Animation" width="800">
+Graphics Programmer • Unreal Engine Developer • Real-Time Rendering
 </p>
 
-<<<<<<< HEAD
-### TECH
-=======
-</br>
-
-### UE5
-
-<table align="center">
-  <tr>
-    <td><img src="./VID/Screenshot 2026-05-29 140252.png" width="300"></td>
-    <td><img src="./VID/Screenshot 2026-05-29 140440.png" width="300"></td>
-  </tr>
-  <tr>
-    <td><img src="./VID/Screenshot 2026-05-29 140407.png" width="300"></td>
-    <td><img src="./VID/Screenshot 2026-05-29 140533.png" width="300"></td>
-  </tr>
-</table>
-
-</br>
-
-### MY ART some of it :)
-
-<table align="center">
-  <tr>
-    <td><img src="./VID/Screenshot 2026-05-29 135228.png" width="300"></td>
-    <td><img src="./VID/Screenshot 2026-05-29 135535.png" width="300"></td>
-  </tr>
-</table>
-
-
-### Tech Stack
->>>>>>> d8ee9ec (new art)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,unreal,blender,git,unityk" />
+<p align="center">
+I build rendering systems, shaders, engine tools, and interactive experiences with a focus on performance and visual quality.
 </p>
 
-<br/>
+---
 
-### Current Focus
+## Showcase
+
+<p align="center">
+  <img src="./VID/MYrender.gif" width="900" alt="Showcase">
+</p>
+
+---
+
+## Unreal Engine 5
+
+<table align="center">
+<tr>
+<td><img src="./VID/Screenshot 2026-05-29 140252.png" width="420"></td>
+<td><img src="./VID/Screenshot 2026-05-29 140440.png" width="420"></td>
+</tr>
+
+<tr>
+<td><img src="./VID/Screenshot 2026-05-29 140407.png" width="420"></td>
+<td><img src="./VID/Screenshot 2026-05-29 140533.png" width="420"></td>
+</tr>
+</table>
+
+---
+
+## Technical Art
+
+<table align="center">
+<tr>
+<td><img src="./VID/Screenshot 2026-05-29 135228.png" width="420"></td>
+<td><img src="./VID/Screenshot 2026-05-29 135535.png" width="420"></td>
+</tr>
+</table>
+
+---
+
+## About
+
+I specialize in graphics programming, rendering techniques, and Unreal Engine development. My interests include building rendering pipelines, writing GPU shaders, developing engine tools, and creating performant real-time applications.
+
+---
+
+## Areas of Interest
 
 - Real-Time Rendering
+- Graphics Programming
+- Engine Programming
+- GPU Programming
 - Shader Development
-- Engine Tools
+- Procedural Generation
+- Performance Optimization
+- Unreal Engine 5
 
-### GitHub Stats
+---
 
-<div align="center">
+## Tech Stack
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadshinde&theme=tokyonight&background=00000000&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&border=00d4ff&hide_border=false"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,rust,unreal,blender,unity" />
+</p>
 
-</div>
+---
 
-<br/>
+## GitHub Statistics
 
-### Connect
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRASADSHINDE117&theme=tokyo-night&hide_border=true">
+---
 
-<p>
-  <a href="https://www.linkedin.com/in/prasad-s-shinde-899754286/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00d4ff"/></a>
-  <a href="https://www.behance.net/prasadshinde39"><img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=00d4ff"/></a>
-  <a href="https://www.instagram.com/renderfather"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00d4ff"/></a>
+## Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/prasad-s-shinde-899754286">LinkedIn</a> •
+<a href="https://www.behance.net/prasadshinde39">Behance</a> •
+<a href="https://www.instagram.com/renderfather">Instagram</a>
 </p>
